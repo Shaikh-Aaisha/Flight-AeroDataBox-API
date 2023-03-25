@@ -1,7 +1,7 @@
 <h1><b>Steps for integrating AerDatabox Flight API in Laravel. </b></h1><br><br><br>
 
 
-##About<br><br><br><br>
+##About<br><br>
 
 "laravel": "^9.0"<br>
 "php": "^8.0.25"<br>
