@@ -7,7 +7,7 @@
 "php": "^8.0.25"<br>
 "guzzlehttp/guzzle": "^7.5"<br>
 
-##Steps<br><br><br><br>
+##Steps<br><br>
 
 1- Create new laravel project<br>
 &nbsp;&nbsp;composer create-project laravel/laravel:^9.0 example-app<br><br>
